@@ -1,0 +1,1514 @@
+{
+  "base_point_value": 0,
+  "next_bracket": "bumblebash3",
+  "max_players_to_count": 17,
+  "match_values": [ 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5, 4.5,
+                    16.5, 16.5, 16.5, 16.5, 16.5, 16.5, 16.5, 16.5,
+                    16.5, 16.5, 16.5, 16.5, 16.5, 16.5, 16.5, 16.5,
+                    28.5, 28.5, 28.5, 28.5, 28.5, 28.5, 28.5, 28.5,
+                    34.5, 34.5, 34.5, 34.5,
+                    38.5, 38.5, 38.5
+  ],
+  "teams": [
+    {
+      "name": "[loud barking noises]",
+      "players": [
+        {
+          "name": "Amanda Lax",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Dylan Conrad",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Jorge Hernandez",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "John Koutroulakis",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Eliyas Azizy",
+          "scene": "Charlotte"
+        }
+      ]
+    },
+    {
+      "name": "4+1",
+      "players": [
+        {
+          "name": "Heather Logsdon",
+          "scene": "Columbus"
+        },
+        {
+          "name": "Craig Payne",
+          "scene": "Columbus"
+        },
+        {
+          "name": "Matthew Thompson",
+          "scene": "Columbus"
+        },
+        {
+          "name": "Carlos DelaSerda",
+          "scene": "Columbus"
+        },
+        {
+          "name": "Nick Monger",
+          "scene": "Cincinnati"
+        }
+      ]
+    },
+    {
+      "name": "Avatar Boi",
+      "players": [
+        {
+          "name": "Jordan Navarra",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Joseph Woolum",
+          "scene": "Columbus"
+        },
+        {
+          "name": "Mitch Diemert",
+          "scene": "Columbus"
+        },
+        {
+          "name": "Devin Patel",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Andrew Griner",
+          "scene": "Charlotte"
+        }
+      ]
+    },
+    {
+      "name": "Bae Caught Me Drippin'",
+      "players": [
+        {
+          "name": "Charlie Pfaff",
+          "scene": "New York"
+        },
+        {
+          "name": "Drew Bolduc",
+          "scene": "New York"
+        },
+        {
+          "name": "Daphane Love",
+          "scene": "New York"
+        },
+        {
+          "name": "Victor Jardim",
+          "scene": "New York"
+        },
+        {
+          "name": "Brian McFadden",
+          "scene": "New York"
+        }
+      ]
+    },
+    {
+      "name": "Beenix Rising",
+      "players": [
+        {
+          "name": "Burton Flake",
+          "scene": "Phoenix"
+        },
+        {
+          "name": "Tyler Moloney",
+          "scene": "Phoenix"
+        },
+        {
+          "name": "Toni Scarlett",
+          "scene": "Phoenix"
+        },
+        {
+          "name": "Samantha Weddle",
+          "scene": "Phoenix"
+        },
+        {
+          "name": "Jeff Hochgesang",
+          "scene": "Phoenix"
+        }
+      ]
+    },
+    {
+      "name": "Berry'd Treasure",
+      "players": [
+        {
+          "name": "Imandra McKenzie",
+          "scene": "Portland"
+        },
+        {
+          "name": "Nathan Vorhees",
+          "scene": "Portland"
+        },
+        {
+          "name": "Steven Do",
+          "scene": "Portland"
+        },
+        {
+          "name": "Melanie Szemis",
+          "scene": "Portland"
+        },
+        {
+          "name": "Alexander Simchuk",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "Bonus Nap",
+      "players": [
+        {
+          "name": "Aaron Tran",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Travis Teta",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Stephi Castillo",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Jose Velasco",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Kyle Shipwash",
+          "scene": "Charlotte"
+        }
+      ]
+    },
+    {
+      "name": "B-Team",
+      "players": [
+        {
+          "name": "Matt Abdou",
+          "scene": "Portland"
+        },
+        {
+          "name": "Meaghan Schneider",
+          "scene": "Portland"
+        },
+        {
+          "name": "Jordan Moritz",
+          "scene": "Portland"
+        },
+        {
+          "name": "Max Friedrich",
+          "scene": "Portland"
+        },
+        {
+          "name": "Taryn Costello",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "Bumbledore's Army",
+      "players": [
+        {
+          "name": "Christop Corley",
+          "scene": "Chattanooga"
+        },
+        {
+          "name": "Amanda Norris",
+          "scene": "Chattanooga"
+        },
+        {
+          "name": "Micah Wallace",
+          "scene": "Chattanooga"
+        },
+        {
+          "name": "Jen Crawford",
+          "scene": "Chattanooga"
+        },
+        {
+          "name": "Kenneth Hill",
+          "scene": "Chattanooga"
+        }
+      ]
+    },
+    {
+      "name": "Calamitibees",
+      "players": [
+        {
+          "name": "Kasi White",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Ken Selby",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Josh Eklow",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Sarah Stewart",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Francis Sullivan",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "The Yung Knucks",
+      "players": [
+        {
+          "name": "Cesar Bustos",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Aaron Goldberg",
+          "scene": "Chicago"
+        },
+        {
+          "name": "David Kirk",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Michael Rasnic",
+          "scene": "Chicago"
+        },
+        {
+          "name": "David Garzon",
+          "scene": "Chicago"
+        }
+      ]
+    },
+    {
+      "name": "DAD REACTS ONLY",
+      "players": [
+        {
+          "name": "Joel Zylka",
+          "scene": "Portland"
+        },
+        {
+          "name": "Dylan Lee",
+          "scene": "Portland"
+        },
+        {
+          "name": "Thomas Hardy",
+          "scene": "Portland"
+        },
+        {
+          "name": "David Henry",
+          "scene": "Portland"
+        },
+        {
+          "name": "Scott Adelman",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "Dayzed and Confused",
+      "players": [
+        {
+          "name": "Phillip Jones",
+          "scene": "Austin"
+        },
+        {
+          "name": "Brian Lucas",
+          "scene": "Austin"
+        },
+        {
+          "name": "Leah Lucas",
+          "scene": "Austin"
+        },
+        {
+          "name": "Richard E. Ochoa",
+          "scene": "Austin"
+        },
+        {
+          "name": "Josh Bird",
+          "scene": "Austin"
+        }
+      ]
+    },
+    {
+      "name": "DeathQueen",
+      "players": [
+        {
+          "name": "Ash Ramirez",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Tony Hauber",
+          "scene": "Elkader"
+        },
+        {
+          "name": "Kelly Kim",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Derek Okumura",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Sam Aldach",
+          "scene": "San Francisco"
+        }
+      ]
+    },
+    {
+      "name": "Jupiter Rising",
+      "players": [
+        {
+          "name": "Tyler Reed",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Melanie Brown",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Brandon Adkins",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Sean Bucy",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Chris McGrath",
+          "scene": "Seattle"
+        }
+      ]
+    },
+    {
+      "name": "CLEAN",
+      "players": [
+        {
+          "name": "Brian Wong",
+          "scene": "New York"
+        },
+        {
+          "name": "Andrew Kelley",
+          "scene": "New York"
+        },
+        {
+          "name": "Carissa Phong",
+          "scene": "New York"
+        },
+        {
+          "name": "Sam Beckman",
+          "scene": "New York"
+        },
+        {
+          "name": "Prashant Sridhar",
+          "scene": "New York"
+        }
+      ]
+    },
+    {
+      "name": "East Coast Snailers",
+      "players": [
+        {
+          "name": "Brian Lancaster",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Bobby Hutter",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Raven Bagy",
+          "scene": "New York"
+        },
+        {
+          "name": "Randy Diaz",
+          "scene": "New York"
+        },
+        {
+          "name": "Deanna Lopez",
+          "scene": "South Florida"
+        }
+      ]
+    },
+    {
+      "name": "Fleur de Bees",
+      "players": [
+        {
+          "name": "Craig Richards",
+          "scene": "St. Louis"
+        },
+        {
+          "name": "Joel Stockard",
+          "scene": "Kansas City"
+        },
+        {
+          "name": "Michael Roman",
+          "scene": "St. Louis"
+        },
+        {
+          "name": "Bob Fleet",
+          "scene": "St. Louis"
+        },
+        {
+          "name": "Ian Brown",
+          "scene": "San Francisco"
+        }
+      ]
+    },
+    {
+      "name": "Higgins Boson",
+      "players": [
+        {
+          "name": "Asher Toback",
+          "scene": "Portland"
+        },
+        {
+          "name": "Alyssa DeMoss",
+          "scene": "Portland"
+        },
+        {
+          "name": "Johnmark Faris",
+          "scene": "Portland"
+        },
+        {
+          "name": "Dylan H",
+          "scene": "Portland"
+        },
+        {
+          "name": "Javan Ivey",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "Hive of the Mantis",
+      "players": [
+        {
+          "name": "Adriana Steinberg",
+          "scene": "Austin"
+        },
+        {
+          "name": "Phillip Bracy",
+          "scene": "Austin"
+        },
+        {
+          "name": "Blake Compton",
+          "scene": "Columbus"
+        },
+        {
+          "name": "Jonathan Pollard",
+          "scene": "Austin"
+        },
+        {
+          "name": "Chris Steinberg",
+          "scene": "Austin"
+        }
+      ]
+    },
+    {
+      "name": "How Do I Shoot?",
+      "players": [
+        {
+          "name": "Kiera DeFrange",
+          "scene": "Portland"
+        },
+        {
+          "name": "Logan Barnett",
+          "scene": "Portland"
+        },
+        {
+          "name": "Adrian Resquer",
+          "scene": "Portland"
+        },
+        {
+          "name": "Vanessa Rhodes",
+          "scene": "Portland"
+        },
+        {
+          "name": "Alex Wilkins",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "How I Met Your Hover",
+      "players": [
+        {
+          "name": "Daniel Knerr",
+          "scene": "St. Louis"
+        },
+        {
+          "name": "Emily Leonard",
+          "scene": "St. Louis"
+        },
+        {
+          "name": "Ryan Knerr",
+          "scene": "St. Louis"
+        },
+        {
+          "name": "Nick McKeever",
+          "scene": "St. Louis"
+        },
+        {
+          "name": "James Rasnic",
+          "scene": "St. Louis"
+        }
+      ]
+    },
+    {
+      "name": "Too Many Gummies",
+      "players": [
+        {
+          "name": "Wyatt Roberts",
+          "scene": "Kansas City"
+        },
+        {
+          "name": "Billy Faldo",
+          "scene": "Kansas City"
+        },
+        {
+          "name": "Michael Esparza",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Austin Turney",
+          "scene": "Kansas City"
+        },
+        {
+          "name": "Hugo Meneses",
+          "scene": "Kansas City"
+        }
+      ]
+    },
+    {
+      "name": "MINDFREAK",
+      "players": [
+        {
+          "name": "Megan Stetz",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Andrew Quang",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Dan Barron",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Rishi Khullar",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Helen Lau",
+          "scene": "Chicago"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota Mean",
+      "players": [
+        {
+          "name": "Dan Miller",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Joe Miller",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Matthew Zwilling",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Nick Larsen",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Paul Fore",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "wow",
+      "players": [
+        {
+          "name": "Alex Meester",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Erik Beardman",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Jack Salaski",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Jesse Sorensen",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Dexter Chacko",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "Nice~Heaven",
+      "players": [
+        {
+          "name": "Lev Bakin",
+          "scene": "Madison"
+        },
+        {
+          "name": "Neal Smith",
+          "scene": "Portland"
+        },
+        {
+          "name": "Cody Frederickson",
+          "scene": "Portland"
+        },
+        {
+          "name": "Mathew Herring",
+          "scene": "Portland"
+        },
+        {
+          "name": "Matt Feldkamp",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "NODEX",
+      "players": [
+        {
+          "name": "Ryan Rismon",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Geovanny Tzarax",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Kelvin Collado",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Troy Stenstrom",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Ken Bougie",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "Pigeon Rats",
+      "players": [
+        {
+          "name": "Richard Chan",
+          "scene": "New York"
+        },
+        {
+          "name": "Marian Wu",
+          "scene": "New York"
+        },
+        {
+          "name": "Drew Sandquist",
+          "scene": "New York"
+        },
+        {
+          "name": "Anthony Paredes",
+          "scene": "New York"
+        },
+        {
+          "name": "Mustafa Allsop",
+          "scene": "New York"
+        }
+      ]
+    },
+    {
+      "name": "PIZZA",
+      "players": [
+        {
+          "name": "Nick Valentine",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Kat Naden",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Alison Jesme",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Kevan Smoliak",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Karla Gonzalez",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "Happy New Year",
+      "players": [
+        {
+          "name": "Christopher Cadayona",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Bert Wierenga",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Christina Norton",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Nicholas Giacone",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Brian Susman",
+          "scene": "Chicago"
+        }
+      ]
+    },
+    {
+      "name": "Purple Reign",
+      "players": [
+        {
+          "name": "Kayla Grothaus",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Karl Nann",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "J Sisk",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Matt Woelfel",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Mark Nelson",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "Queen's Revenge",
+      "players": [
+        {
+          "name": "Jacob LaSchultz",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Truett Grigg",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Courtney Schultz",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Steven Saenz",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Cheyenne Steel",
+          "scene": "Charlotte"
+        }
+      ]
+    },
+    {
+      "name": "Ginyu Force",
+      "players": [
+        {
+          "name": "Craig Stukey",
+          "scene": "Los Angeles"
+        },
+        {
+          "name": "Richard Van",
+          "scene": "South Florida"
+        },
+        {
+          "name": "Eric Clarkson",
+          "scene": "Baltimore"
+      },
+        {
+          "name": "Jenna Reynolds",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Alan Dang",
+          "scene": "Los Angeles"
+        }
+      ]
+    },
+    {
+      "name": "Seattle BooperSonics",
+      "players": [
+        {
+          "name": "Paul Thomas",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Nate Sloat",
+          "scene": "Seattle"
+        },
+        {
+          "name": "David Walsh",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Evan S",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Kevin Marnell",
+          "scene": "Seattle"
+        }
+      ]
+    },
+    {
+      "name": "lil chomp",
+      "players": [
+        {
+          "name": "Dan Shupp",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Heather Davis",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Andi Slobodien",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Scott Wilkewitz",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Brian Lee",
+          "scene": "San Francisco"
+        }
+      ]
+    },
+    {
+      "name": "Some Side Cab Scrubs",
+      "players": [
+        {
+          "name": "Robert Neuhaus",
+          "scene": "New York"
+        },
+        {
+          "name": "Kevin Constantino",
+          "scene": "New York"
+        },
+        {
+          "name": "Anna Willoughby",
+          "scene": "Atlanta"
+        },
+        {
+          "name": "Austin Waters",
+          "scene": "New York"
+        },
+        {
+          "name": "Justin Krim",
+          "scene": "New York"
+        }
+      ]
+    },
+    {
+      "name": "It Has Been",
+      "players": [
+        {
+          "name": "John Cook",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Woody Stanfield",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Belia Portillo",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Ryan Waisner",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Logan David",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "Team Break",
+      "players": [
+        {
+          "name": "Andrew Wilkening",
+          "scene": "New York"
+        },
+        {
+          "name": "Sarah Greenwood",
+          "scene": "New York"
+        },
+        {
+          "name": "Wyatt Yeong",
+          "scene": "New York"
+        },
+        {
+          "name": "Anthony Lieuallen",
+          "scene": "New York"
+        },
+        {
+          "name": "Brian Kang",
+          "scene": "New York"
+        }
+      ]
+    },
+    {
+      "name": "Bourgeois Bees",
+      "players": [
+        {
+          "name": "Jason Galginaitis",
+          "scene": "Portland"
+        },
+        {
+          "name": "Desirae Post",
+          "scene": "Portland"
+        },
+        {
+          "name": "Andrew Seery",
+          "scene": "Portland"
+        },
+        {
+          "name": "Raymond Ybarra",
+          "scene": "Portland"
+        },
+        {
+          "name": "Joe Mauriello",
+          "scene": "Seattle"
+        }
+      ]
+    },
+    {
+      "name": "Rice 'n Bees",
+      "players": [
+        {
+          "name": "Andrew Laber",
+          "scene": "Kansas City"
+        },
+        {
+          "name": "Andrew Daugherty",
+          "scene": "New York"
+        },
+        {
+          "name": "Jenny Chang",
+          "scene": "New York"
+        },
+        {
+          "name": "Tiana Tan",
+          "scene": "New York"
+        },
+        {
+          "name": "Reinaldo McNally",
+          "scene": "New York"
+        }
+      ]
+    },
+    {
+      "name": "TOXIC",
+      "players": [
+        {
+          "name": "Nathan Palmer",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Mitchell Heck",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Michelle Lutz",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Andrea Newell",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Beau Pulvermacher",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "Chomp Chomp",
+      "players": [
+        {
+          "name": "Felix Yuan",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Josh Biedenweg",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Jeremy Watson",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Steve Halili",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Andrew Dotson",
+          "scene": "San Francisco"
+        }
+      ]
+    },
+    {
+      "name": "WooGoo",
+      "players": [
+        {
+          "name": "Joe Pollard",
+          "scene": "Austin"
+        },
+        {
+          "name": "Hannah Teson",
+          "scene": "Austin"
+        },
+        {
+          "name": "Marcelo Teson",
+          "scene": "Austin"
+        },
+        {
+          "name": "Wayne Parks",
+          "scene": "Austin"
+        },
+        {
+          "name": "Don Thibert",
+          "scene": "Austin"
+        }
+      ]
+    },
+    {
+      "name": "Flappers & The Dapper Tappers",
+      "players": [
+        {
+          "name": "Damish Shah",
+          "scene": "Portland"
+        },
+        {
+          "name": "Ara Roselani",
+          "scene": "Portland"
+        },
+        {
+          "name": "Hailey Aguilar",
+          "scene": "Portland"
+        },
+        {
+          "name": "Miranda Aguilar",
+          "scene": "Portland"
+        },
+        {
+          "name": "Warren Edwards",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "Hazard Phase",
+      "players": [
+        {
+          "name": "Adam Babel",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Nicholas Davis",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Justin Buth",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Amanda Trexler",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Chuck Bressan",
+          "scene": "Chicago"
+        }
+      ]
+    },
+    {
+      "name": "Hot Dish",
+      "players": [
+        {
+          "name": "Hilton Jones",
+          "scene": "Madison"
+        },
+        {
+          "name": "Heidi Jones",
+          "scene": "Madison"
+        },
+        {
+          "name": "Jennifer Gilbert",
+          "scene": "Madison"
+        },
+        {
+          "name": "Anna Thornton",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Cora-Lee Bowman",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "Lakes On Mars",
+      "players": [
+        {
+          "name": "Chris Wallace",
+          "scene": "New York"
+        },
+        {
+          "name": "Charles Pratt",
+          "scene": "New York"
+        },
+        {
+          "name": "Felicia Wong",
+          "scene": "New York"
+        },
+        {
+          "name": "Ryan Lescoe",
+          "scene": "Charlotte"
+        },
+        {
+          "name": "Jack Schlesinger",
+          "scene": "New York"
+        }
+      ]
+    },
+    {
+      "name": "BERRIES ARE A CHOKING HAZARD",
+      "players": [
+        {
+          "name": "Julie King",
+          "scene": "Portland"
+        },
+        {
+          "name": "Daniel Bueno",
+          "scene": "Portland"
+        },
+        {
+          "name": "Isaiah DeMoss",
+          "scene": "Portland"
+        },
+        {
+          "name": "Brandon Johnson",
+          "scene": "Portland"
+        },
+        {
+          "name": "Kevin John",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "SEA-MIN",
+      "players": [
+        {
+          "name": "Jared Gamble",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Marina Stadick",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Chris Thompson",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Bradley Schoenherr",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Taylor Christianson",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "Day All Night",
+      "players": [
+        {
+          "name": "Alex Jaspersen",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Miranda Steele",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Pierre Lafortune",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Ryan Piaget",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Gino Miglio",
+          "scene": "San Francisco"
+        }
+      ]
+    },
+    {
+      "name": "The Flying Snails",
+      "players": [
+        {
+          "name": "Josh McLaughlin",
+          "scene": "Seattle"
+        },
+        {
+          "name": "John Bollard",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Zoe Ackerman",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Patrick Heth",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Michael Flanagin",
+          "scene": "Seattle"
+        }
+      ]
+    },
+    {
+      "name": "Warp World",
+      "players": [
+        {
+          "name": "Grand Poo Bear",
+          "scene": "Portland"
+        },
+        {
+          "name": "Jaku",
+          "scene": "Chicago"
+        },
+        {
+          "name": "Kah Kah Beware",
+          "scene": "Portland"
+        },
+        {
+          "name": "Xwater",
+          "scene": "Canada"
+        },
+        {
+          "name": "Shea Flaherty Betin",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "Starship Enterhive",
+      "players": [
+        {
+          "name": "Hitoshi Satow",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Kaylee Perkizas",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Quinn Mazure",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Julie Denberger",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Tim Pearson",
+          "scene": "Seattle"
+        }
+      ]
+    },
+    {
+      "name": "BeeDeeOhNo",
+      "players": [
+        {
+          "name": "Zane Cacace",
+          "scene": "Los Angeles"
+        },
+        {
+          "name": "Stephen Novenstern",
+          "scene": "New York"
+        },
+        {
+          "name": "Jonathan So",
+          "scene": "San Francisco"
+        },
+        {
+          "name": "Taylor Berrett",
+          "scene": "Portland"
+        },
+        {
+          "name": "Scott Myran",
+          "scene": "Minneapolis"
+        }
+      ]
+    },
+    {
+      "name": "Because I Got Hive",
+      "players": [
+        {
+          "name": "Victoria Bauscher",
+          "scene": "Cincinnati"
+        },
+        {
+          "name": "Spenser Kern",
+          "scene": "Cincinnati"
+        },
+        {
+          "name": "Lisa Steward",
+          "scene": "Columbus"
+        },
+        {
+          "name": "Jon Lyons",
+          "scene": "Cincinnati"
+        },
+        {
+          "name": "Joe Enrico",
+          "scene": "Charlotte"
+        }
+      ]
+    },
+    {
+      "name": "It's Pronounced GIF",
+      "players": [
+        {
+          "name": "Kevin Vanhorn",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Nick Bornemann",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Shelby Renee",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Johanna Rose",
+          "scene": "Minneapolis"
+        },
+        {
+          "name": "Anna Zarubin",
+          "scene": "San Francisco"
+        }
+      ]
+    },
+    {
+      "name": "Show Me Your Boops",
+      "players": [
+        {
+          "name": "Taylor Robbins",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Amy Bucy",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Mike Porter",
+          "scene": "Seattle"
+        },
+        {
+          "name": "Katrina Phonasa",
+          "scene": "Portland"
+        },
+        {
+          "name": "Heather Gardner",
+          "scene": "Portland"
+        }
+      ]
+    },
+    {
+      "name": "Berry Pickers Union",
+      "players": [
+        {
+          "name": "Rusteen Honardoost",
+          "scene": "Los Angeles"
+        },
+        {
+          "name": "Nicole McKeon",
+          "scene": "Los Angeles"
+        },
+        {
+          "name": "Chris Bentley",
+          "scene": "Los Angeles"
+        },
+        {
+          "name": "Phil Bessenecker",
+          "scene": "Los Angeles"
+        },
+        {
+          "name": "Josh Siegel",
+          "scene": "Los Angeles"
+        }
+      ]
+    },
+    {
+      "name": "We Bees Nasty",
+      "players": [
+        {
+          "name": "Ryan Squires",
+          "scene": "Eugene"
+        },
+        {
+          "name": "Nick Higgins",
+          "scene": "Portland"
+        },
+        {
+          "name": "Josh Gebhart",
+          "scene": "Eugene"
+        },
+        {
+          "name": "Madi Taylor",
+          "scene": "Portland"
+        },
+        {
+          "name": "Soleo Evans",
+          "scene": "Eugene"
+        }
+      ]
+    }
+  ]
+}
